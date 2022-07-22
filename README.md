@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200" height="200"/>
 </div>
  <div id="badges" align="center">
   <a href="https://t.me/b0tanichka">
     <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
- <img src="https://komarev.com/ghpvc/?username=Anyuu25&style=plastic&color=ff69b4" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=Anyuu25&style=plastic&color=dc9afe" alt=""/>
 Привет! 👋
 Меня зовут Аня, я тестировщица и сейчас активно ищу работу!
 
