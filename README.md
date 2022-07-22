@@ -7,14 +7,15 @@
   </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=Anyuu25&style=plastic&color=ff69b4" alt=""/>
-### Привет! 👋
+Привет! 👋
 Меня зовут Аня, я тестировщица и сейчас активно ищу работу!
+
   ---
 
 ### :hammer_and_wrench: Эти инстументы и языки программирования я умею использовать в работе:
  AndroidStudio, Postman, SoapUI, SQL, PostgreSQL, DBeaver, Charles Proxy, Fiddler, Git, bash, Jira, C#, JavaScript
  <div>
- <img src="https://https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>&nbsp;  
+ <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>&nbsp;  
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>&nbsp;
